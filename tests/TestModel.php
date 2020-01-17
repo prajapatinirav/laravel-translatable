@@ -1,9 +1,9 @@
 <?php
 
-namespace Spatie\Translatable\Test;
+namespace PrajapatiNirav\Translatable\Test;
 
 use Illuminate\Database\Eloquent\Model;
-use Spatie\Translatable\HasTranslations;
+use PrajapatiNirav\Translatable\HasTranslations;
 
 class TestModel extends Model
 {

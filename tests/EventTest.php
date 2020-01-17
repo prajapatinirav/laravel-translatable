@@ -1,8 +1,8 @@
 <?php
 
-namespace Spatie\Translatable\Test;
+namespace PrajapatiNirav\Translatable\Test;
 
-use Spatie\Translatable\Events\TranslationHasBeenSet;
+use PrajapatiNirav\Translatable\Events\TranslationHasBeenSet;
 
 class EventTest extends TestCase
 {

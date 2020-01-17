@@ -1,8 +1,8 @@
 <?php
 
-namespace Spatie\Translatable\Test;
+namespace PrajapatiNirav\Translatable\Test;
 
-use Spatie\Translatable\Exceptions\AttributeIsNotTranslatable;
+use PrajapatiNirav\Translatable\Exceptions\AttributeIsNotTranslatable;
 
 class TranslatableTest extends TestCase
 {

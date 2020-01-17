@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Translatable\Events;
+namespace PrajapatiNirav\Translatable\Events;
 
 use Illuminate\Database\Eloquent\Model;
 

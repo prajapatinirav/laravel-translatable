@@ -1,11 +1,11 @@
 <?php
 
-namespace Spatie\Translatable\Test;
+namespace PrajapatiNirav\Translatable\Test;
 
 use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Spatie\Translatable\TranslatableServiceProvider;
+use PrajapatiNirav\Translatable\TranslatableServiceProvider;
 
 abstract class TestCase extends Orchestra
 {

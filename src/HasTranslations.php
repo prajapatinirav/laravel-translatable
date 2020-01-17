@@ -1,11 +1,11 @@
 <?php
 
-namespace Spatie\Translatable;
+namespace PrajapatiNirav\Translatable;
 
 use Illuminate\Support\Str;
 use Illuminate\Support\Facades\Config;
-use Spatie\Translatable\Events\TranslationHasBeenSet;
-use Spatie\Translatable\Exceptions\AttributeIsNotTranslatable;
+use PrajapatiNirav\Translatable\Events\TranslationHasBeenSet;
+use PrajapatiNirav\Translatable\Exceptions\AttributeIsNotTranslatable;
 
 trait HasTranslations
 {

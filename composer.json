@@ -1,8 +1,8 @@
 {
-    "name": "spatie/laravel-translatable",
+    "name": "PrajapatiNirav/laravel-translatable",
     "description": "A trait to make an Eloquent model hold translations",
     "keywords": [
-        "spatie",
+        "PrajapatiNirav",
         "laravel-translatable",
         "translate",
         "eloquent",
@@ -10,25 +10,13 @@
         "i8n",
         "multilingual"
     ],
-    "homepage": "https://github.com/spatie/laravel-translatable",
+    "homepage": "https://github.com/PrajapatiNirav/laravel-translatable",
     "license": "MIT",
     "authors": [
         {
-            "name": "Freek Van der Herten",
-            "email": "freek@spatie.be",
-            "homepage": "https://spatie.be",
+            "name": "Nirav Prajapati",
+            "email": "nirav.t.prajapati21@gmail.com",
             "role": "Developer"
-        },
-        {
-            "name": "Sebastian De Deyne",
-            "email": "sebastian@spatie.be",
-            "homepage": "https://spatie.be",
-            "role": "Developer"
-        },
-        {
-            "name": "Mohamed Said",
-            "email": "theMohamedSaid@gmail.com",
-            "role": "Original idea"
         }
     ],
     "require": {
@@ -43,12 +31,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\Translatable\\": "src"
+            "PrajapatiNirav\\Translatable\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\Translatable\\Test\\": "tests"
+            "PrajapatiNirav\\Translatable\\Test\\": "tests"
         }
     },
     "scripts": {
@@ -60,7 +48,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Spatie\\Translatable\\TranslatableServiceProvider"
+                "PrajapatiNirav\\Translatable\\TranslatableServiceProvider"
             ]
         }
     }
