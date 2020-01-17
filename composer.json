@@ -1,5 +1,5 @@
 {
-    "name": "PrajapatiNirav/laravel-translatable",
+    "name": "prajapatinirav/laravel-translatable",
     "description": "A trait to make an Eloquent model hold translations",
     "keywords": [
         "PrajapatiNirav",
@@ -10,7 +10,7 @@
         "i8n",
         "multilingual"
     ],
-    "homepage": "https://github.com/PrajapatiNirav/laravel-translatable",
+    "homepage": "https://github.com/prajapatinirav/laravel-translatable",
     "license": "MIT",
     "authors": [
         {
